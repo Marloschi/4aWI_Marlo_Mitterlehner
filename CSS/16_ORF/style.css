@@ -1,0 +1,85 @@
+.navbar-horizontal1 li {
+  position: relative;
+  display: inline-block;
+  padding-right: 50px;
+  color: white;
+  font-weight: 400;
+}
+
+.navbar-horizontal2 li {
+  position: relative;
+  display: inline-block;
+  background-color: blue;
+  padding-right: 80px;
+}
+
+.flexbox1 {
+  background-color: red;
+  position: relative;
+  justify-content: space-evenly;
+  display: flex;
+}
+
+.flexbox2 {
+  background-color: greenyellow;
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding-left: 50px;
+}
+
+.flexbox3 {
+  background-color: cyan;
+  position: relative;
+  justify-content: space-between;
+  display: flex;
+}
+
+.content {
+  background-color: white;
+  position: relative;
+  justify-content:center;
+  align-items:center;
+  top: -100px;
+  margin: auto;
+  width: 70%;
+}
+
+.content2{
+  background-color: white;
+  position: relative;
+  justify-content:center;
+  align-items:center;
+  text-align: center;
+}
+
+
+.container-werbung {
+  width: 70%;
+}
+
+#p {
+  padding-right: 20px;
+}
+
+#logo {
+  width: 50px;
+  height: 50px;
+}
+
+#bild {
+  width: 100%;
+}
+
+#Coronavirus {
+  padding: 10px;
+}
+
+#Infektion{
+  font-weight: bolder;
+  font-size:x-large;
+}
+#lorem{
+  margin:auto;
+  width: 80%;
+}
