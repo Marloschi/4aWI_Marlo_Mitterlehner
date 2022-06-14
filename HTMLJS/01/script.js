@@ -1,3 +1,4 @@
+alert("hello");
 function Add()
 {
     //Erste Zahl auslesen
